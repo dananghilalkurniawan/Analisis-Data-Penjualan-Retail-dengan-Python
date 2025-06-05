@@ -59,3 +59,6 @@ Data yang digunakan merupakan transaksi penjualan produk retail yang mencakup in
 
    ```bash
    pip install pandas matplotlib seaborn mlxtend
+2. Jalankan script Python atau Jupyter Notebook yang berisi analisis ini secara berurutan agar variabel terkait terdefinisi dengan baik.
+
+
