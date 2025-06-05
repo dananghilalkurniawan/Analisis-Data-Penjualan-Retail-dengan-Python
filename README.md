@@ -10,7 +10,6 @@ Proyek ini berisi serangkaian analisis data penjualan retail menggunakan Python.
 - [Langkah-Langkah Analisis](#langkah-langkah-analisis)  
 - [Tools dan Library](#tools-dan-library)  
 - [Cara Menjalankan](#cara-menjalankan)  
-- [Catatan Penting](#catatan-penting)  
 
 ---
 
